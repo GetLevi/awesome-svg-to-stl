@@ -61,4 +61,5 @@ A curated list of svg to stl converters and the tools around them: where to extr
 
 Open a pull request with a link to a page that ranks for or is linked from an svg to stl resource, plus one line on why it belongs here.
 
+
 _Last reviewed: 2026-09-22_
